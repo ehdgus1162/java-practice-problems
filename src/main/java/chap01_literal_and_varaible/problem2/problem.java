@@ -1,4 +1,4 @@
-package chap01_literal_and_varaible.problem2.md;
+package chap01_literal_and_varaible.problem2;
 
 
 public class problem {
